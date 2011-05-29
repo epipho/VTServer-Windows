@@ -1,0 +1,17 @@
+Modifications:
+
+Works under windows.
+Can send files larger than 32 meg (usig modified standalones).
+
+New command line arg:
+
+"vtserver <number>"
+
+sets the data rate to 4800, 9600, 19200, or 38400. The default is 38400.
+
+^B sends a break.
+^A causes the boot code to be sent at the next opportunity.
+
+Jonathan Engdahl
+jrengdahl at safeaccess dot com
+1/5/2002
